@@ -1,0 +1,92 @@
+
+
+.site-layout-content {
+    background: #fff;
+    padding: 24px;
+    min-height: 280px;
+  }
+  #components-layout-demo-top .logo {
+    width: 120px;
+    height: 31px;
+    background: (255, 255, 255, 0.2);
+    margin: 16px 24px 16px 0;
+    float: left;
+  }
+.logoBlog {
+    text-align: center;
+    background: white;
+}
+.content {
+    background-color: beige;
+}
+  #header1 {
+      text-align: center;
+  }
+  .body{
+    font-family: cursive;
+  }
+  h1{
+    
+    text-shadow: 3px 2px pink;
+    }
+    #test, #test2  {
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        background-color: pink;
+        width: 100%;
+      }
+      #test3, #test4, #test5 {
+        font-weight: bold;
+        font-size: 22px;
+      }
+      
+      h1{
+      text-align: center;
+      text-shadow: 3px 2px pink;
+        font-size: 50px        
+      }
+      p2{
+        font-weight: bold;
+        color: purple
+      }
+      p4{
+       font-weight: bold;
+        color: pink;
+        font-size: 20px;        
+      }  
+      
+      p6{
+        text-decoration: overline;
+        font-style: italic;
+        color: pink;
+      }
+      
+      table {
+        border-collapse: collapse;
+         width: 70%;
+      }
+      
+      td, th {
+        border: 1px solid pink;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: pink;
+      }
+
+      #test6, #test7 {
+      text-align: center;    
+      }
+
+      #test8 {
+          text-align: center;
+      }
+#test9{
+    text-align : center;
+    font-size: 30;
+    font-weight: bold;
+
+}
+
